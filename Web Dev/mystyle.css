@@ -1,0 +1,27 @@
+.body
+{
+font-family:Arial, Verdana;
+font-size:14px;
+color:#080808;
+}
+.h1{
+font-size:18px;
+color:#780000;
+text-align: center;
+}
+.h2{
+font-size:14px;
+}
+.span{
+font-size:14px;
+}
+.container-title{
+	font-size:14px;
+}
+.container-text{
+	font-size:14px;
+}
+.img{
+	text-align: center;
+}
+
