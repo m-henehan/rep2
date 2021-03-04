@@ -1,2 +1,2 @@
 # rep2
-Repository with programming assignment.
+Samples of code from assignments
